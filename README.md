@@ -7,3 +7,14 @@
 -speicfy the path 
 -click "Apply", then "Okay"
 ## [task 1 screenshot] (https://github.com/dave-jones105/df-mod4-tools/blob/main/Screenshots/001.JPG)
+-having a hash set already on your computer is usefull so you can more quickly varrify the contents of files you encounter
+
+## Exercise 2: Autopsy - create Hash Database (of Evidence Files)
+- when ingesting the module, you must have Hash Lookup selected
+- search for known bad files names
+- select all and tag 
+- get the MD5 hash values from the metadata in Autopsy 
+- navigate to tools -> options -> hash sets
+- select new has set
+- paste all MD5 values to new db
+
