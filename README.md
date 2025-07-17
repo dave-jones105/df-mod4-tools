@@ -27,3 +27,6 @@
 ## [task 3 screenshot] (https://github.com/dave-jones105/df-mod4-tools/blob/main/Screenshots/003.JPG)
 
 ## Exercise 4: Simple Encryption
+- The key I used was: KeywordForEncr
+- The original content of my file was: This is my original sample message saved in this file. 
+## [task 4 screenshot] (https://github.com/dave-jones105/df-mod4-tools/blob/main/Screenshots/004.JPG)
