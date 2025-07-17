@@ -90,3 +90,25 @@ java.io.IOException: No memory setting found in String:
 	java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
 	java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
 	java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-07-17 08:36:26.895 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Stopping Solr 8 server
+2025-07-17 08:36:26.896 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: C:\Program Files\Autopsy-4.22.1\autopsy\solr
+2025-07-17 08:36:26.896 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [C:\Program Files\Autopsy-4.22.1\autopsy\solr\bin\autopsy-solr.cmd, stop, -k, jjk#09s, -p, 23232] from C:\Program Files\Autopsy-4.22.1\autopsy\solr
+2025-07-17 08:36:26.905 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Finished running Solr 8 command
+2025-07-17 08:36:26.905 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Waiting for Solr server to stop
+2025-07-17 08:36:28.059 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Finished stopping Solr server
+2025-07-17 08:36:28.06 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2025-07-17 08:36:28.109 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case mod4Ex2 (mod4ex2_20250717_080443) in C:\Projects\df-mod4-tools\mod4Ex2
+2025-07-17 08:36:30.119 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case mod4Ex2 (mod4ex2_20250717_080443)
+2025-07-17 08:36:30.132 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2025-07-17 08:36:30.133 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case mod4Ex2 (mod4ex2_20250717_080443)
